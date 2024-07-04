@@ -4,7 +4,7 @@ BHARAT INTERN ( TASK - 02 )
 # 🌤️ Weather Forecast App
 Welcome to the Weather Forecast App repository – your go-to solution for accurate and real-time weather updates!
 
-#🌟 Features
+# 🌟 Features
 + Current Weather: Stay updated with the latest weather conditions in your area.
 + Hourly Forecast: Get precise weather conditions for every hour.
 + Location Search: Access weather information for any city or location worldwide.
